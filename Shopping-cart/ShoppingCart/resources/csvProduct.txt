@@ -1,0 +1,3 @@
+201,P1,NailPaint,1000,10
+202,P2,Footwear,500,20
+203,P3,T-Shirts,200,20
